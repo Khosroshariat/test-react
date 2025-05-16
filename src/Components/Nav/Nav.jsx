@@ -19,7 +19,7 @@ function Nav() {
                 </a>
               </li>
               <li className="nav__link click">
-                <a href="#" className="nav__link--anchor link__hover--effect">
+                <a href="/" className="nav__link--anchor link__hover--effect">
                   About
                 </a>
               </li>
@@ -29,7 +29,7 @@ function Nav() {
                 </a>
               </li>
               <li className="nav__link click">
-                <a href="#" className="nav__link--anchor nav__link--main">
+                <a href="/" className="nav__link--anchor nav__link--main">
                   Login
                 </a>
               </li>
